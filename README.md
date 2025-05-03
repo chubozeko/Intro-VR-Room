@@ -1,4 +1,4 @@
-# The Room - IntroXRS HW1
+# Intro to XR Systems: Homework 1 (The Room)
 This project serves as an introduction for developing VR applications in Unity, covering topics such as scripting, VR controls, lighting, materials, skyboxes and transforms. This was the first homework assignment for the ***Introduction to XR Systems*** (*521293A*) course.
 
 ## Tools used:
